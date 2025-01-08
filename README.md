@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelloraffaele&label=Profile%20views&color=0e75b6&style=flat" alt="marcelloraffaele" /> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://marcelloraffaele.github.io/](https://marcelloraffaele.github.io/) 
 
 - 📝 I regularly write articles on [marcelloraffaele.github.io/](https://marcelloraffaele.github.io/) and [raffaelemarcello.medium.com](https://raffaelemarcello.medium.com/)
 
-- 💬 Ask me about **Java, Golang, Docker, Kubernetes, Nginx, Azure, AWS**
+- 💬 Ask me about **Java, Python, Golang, Docker, Kubernetes, Nginx, Azure, AWS**
 
 - 📫 How to reach me **marcelloraffaele@gmail.com**
 
