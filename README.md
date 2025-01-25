@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raffaele Marcello</h1>
-hello
+
 <h3 align="center">A passionate Software Engineer and Cloud Solution Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelloraffaele&label=Profile%20views&color=0e75b6&style=flat" alt="marcelloraffaele" /> </p>
