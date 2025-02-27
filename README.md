@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelloraffaele&label=Profile%20views&color=0e75b6&style=flat" alt="marcelloraffaele" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **C#**
 
 - 👨‍💻 All of my projects are available at [https://marcelloraffaele.github.io/](https://marcelloraffaele.github.io/) 
 
 - 📝 I regularly write articles on [marcelloraffaele.github.io/](https://marcelloraffaele.github.io/) and [raffaelemarcello.medium.com](https://raffaelemarcello.medium.com/)
 
-- 💬 Ask me about **Java, Python, Golang, Docker, Kubernetes, Nginx, Azure, AWS**
+- 💬 Ask me about **Azure, GitHub, GitHub Copilot, Java, Python, C#, Golang, Docker, Kubernetes, Nginx**
 
 - 📫 How to reach me **marcelloraffaele@gmail.com**
 
